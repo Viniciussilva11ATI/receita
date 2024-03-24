@@ -7,3 +7,12 @@
 body {
     background-color: #f3e5d7;
 }
+
+body > div {
+    background-color: #fff;
+}
+
+h1, h2 {
+    font-family: 'Lora', serif;
+
+}
